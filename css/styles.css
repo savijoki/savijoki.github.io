@@ -1,0 +1,57 @@
+body {
+	width: 100%;
+	padding: 0px;
+}
+
+#navi {
+	margin: 0;
+}
+
+#intro { 
+	background: #ecf0f1; 
+	height: auto;  
+	margin: 0 auto; 
+	width: 100%; 
+	position: relative; 
+	box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	padding: 100px 0;
+}
+
+#home { 
+	/* Kuva otettu https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?q=80&fm=jpg&s=b5bc5b301b282fd18c85d9bb6ef941e6 */
+	background: url(../images/neljas.jpg) 50% 0 fixed; 
+	height: auto;  
+	margin: 0 auto; 
+	width: 100%; 
+	position: relative; 
+	box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	padding: 200px 0;
+	font-style: italic;
+	font-size: 20px;
+	color:#fff;
+}
+
+#about { 
+	background: #5A5A5A; 
+	height: auto;
+	margin: 0 auto; 
+	width: 100%; 
+	position: relative; 
+	box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	padding: 100px 0;
+	color: #fff;
+}
+
+#iskulause {
+	opacity: 0.5;
+}
+
+.container {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#footerContainer {
+
+	margin-top: 12px;
+}
