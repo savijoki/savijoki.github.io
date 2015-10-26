@@ -66,3 +66,18 @@ body {
 
 	margin-top: 12px;
 }
+
+
+#aboutKuva { 
+	/* Kuva otettu https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?q=80&fm=jpg&s=b5bc5b301b282fd18c85d9bb6ef941e6 */
+	background: url(../images/kirja.jpg) 50% 0 fixed; 
+	height: auto;  
+	margin: 0 auto; 
+	width: 100%; 
+	position: relative; 
+	box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	padding: 300px 0;
+	font-style: italic;
+	font-size: 20px;
+	color:#fff;
+}
