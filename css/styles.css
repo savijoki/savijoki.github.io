@@ -51,6 +51,17 @@ body {
 	padding-right: 10px;
 }
 
+#pictureContainer {
+	display:block-inline; 
+	text-align:center;
+
+}
+
+
+#facebook {
+	padding: 20px;
+}
+
 #footerContainer {
 
 	margin-top: 12px;
