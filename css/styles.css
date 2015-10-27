@@ -3,11 +3,11 @@ body {
 	padding: 0px;
 }
 
-#navi {
+#navbar {
 	margin: 0;
 }
 
-#intro { 
+.intro { 
 	background: #ecf0f1; 
 	height: auto;  
 	margin: 0 auto; 
@@ -17,9 +17,8 @@ body {
 	padding: 100px 0;
 }
 
-#home { 
+.picSection {
 
-	background: url(https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?fit=crop&fm=jpg&h=975&q=80&w=1925) 50% 0 fixed; 
 	height: auto;  
 	margin: 0 auto; 
 	width: 100%; 
@@ -29,6 +28,21 @@ body {
 	font-style: italic;
 	font-size: 20px;
 	color:#fff;
+}
+
+#indexPic { 
+
+	background: url(../images/work.jpg) 50% 0 fixed; 
+}
+
+#aboutPic { 
+
+	background: url(../images/study.jpg) 50% 0 fixed; 
+}
+
+#cvPic { 
+
+	background: url(../images/cv.jpg) 50% 0 fixed; 
 }
 
 #about { 
@@ -44,7 +58,7 @@ body {
 
 #iskulause {
 	color: #B9B3BF;
-	opacity: 0.8;
+	opacity: 0.5;
 }
 
 .container {
@@ -58,8 +72,6 @@ body {
 
 }
 
-
-
 #footerContainer {
 
 	margin-top: 12px;
@@ -67,32 +79,4 @@ body {
 
 .brandIcon {
 	padding:15px;
-}
-
-#aboutKuva { 
-
-	background: url(https://images.unsplash.com/photo-1444730558009-b7f0368e1264?fit=crop&fm=jpg&h=975&q=80&w=1925) 50% 0 fixed; 
-	height: auto;  
-	margin: 0 auto; 
-	width: 100%; 
-	position: relative; 
-	box-shadow: 0 0 50px rgba(0,0,0,0.8);
-	padding: 500px 0;
-	font-style: italic;
-	font-size: 20px;
-	color:#fff;
-}
-
-#CVKuva { 
-
-	background: url(https://images.unsplash.com/photo-1429051781835-9f2c0a9df6e4?fit=crop&fm=jpg&h=975&q=80&w=1925) 50% 0 fixed; 
-	height: auto;  
-	margin: 0 auto; 
-	width: 100%; 
-	position: relative; 
-	box-shadow: 0 0 50px rgba(0,0,0,0.8);
-	padding: 400px 0;
-	font-style: italic;
-	font-size: 20px;
-	color:#fff;
 }
