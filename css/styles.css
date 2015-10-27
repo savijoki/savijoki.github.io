@@ -18,8 +18,8 @@ body {
 }
 
 #home { 
-	/* Kuva otettu https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?q=80&fm=jpg&s=b5bc5b301b282fd18c85d9bb6ef941e6 */
-	background: url(../images/neljas.jpg) 50% 0 fixed; 
+
+	background: url(https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?fit=crop&fm=jpg&h=975&q=80&w=1925) 50% 0 fixed; 
 	height: auto;  
 	margin: 0 auto; 
 	width: 100%; 
@@ -70,8 +70,8 @@ body {
 }
 
 #aboutKuva { 
-	/* Kuva otettu https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?q=80&fm=jpg&s=b5bc5b301b282fd18c85d9bb6ef941e6 */
-	background: url(../images/kirja.jpg) 50% 0 fixed; 
+
+	background: url(https://images.unsplash.com/photo-1444730558009-b7f0368e1264?fit=crop&fm=jpg&h=975&q=80&w=1925) 50% 0 fixed; 
 	height: auto;  
 	margin: 0 auto; 
 	width: 100%; 
@@ -84,14 +84,14 @@ body {
 }
 
 #CVKuva { 
-	/* Kuva otettu https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?q=80&fm=jpg&s=b5bc5b301b282fd18c85d9bb6ef941e6 */
+
 	background: url(https://images.unsplash.com/photo-1429051781835-9f2c0a9df6e4?fit=crop&fm=jpg&h=975&q=80&w=1925) 50% 0 fixed; 
 	height: auto;  
 	margin: 0 auto; 
 	width: 100%; 
 	position: relative; 
 	box-shadow: 0 0 50px rgba(0,0,0,0.8);
-	padding: 500px 0;
+	padding: 400px 0;
 	font-style: italic;
 	font-size: 20px;
 	color:#fff;
