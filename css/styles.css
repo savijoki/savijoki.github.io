@@ -45,6 +45,11 @@ body {
 	background: url(../images/cv.jpg) 50% 0 fixed; 
 }
 
+.cvlist {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
 #about { 
 	background: #5A5A5A; 
 	height: auto;
@@ -79,4 +84,12 @@ body {
 
 .brandIcon {
 	padding:15px;
+}
+
+#show {
+	margin-left:40px;
+}
+
+#sources {
+	display: none;
 }
